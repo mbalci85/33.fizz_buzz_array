@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+	background-color: rgb(121, 199, 199);
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3rem;
+	padding: 3rem;
+}
